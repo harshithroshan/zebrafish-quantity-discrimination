@@ -45,5 +45,5 @@ Completed. Findings contributed to a publication proposal.
 
 ## Links
 
-- [Project page](https://harshithroshankrishnakumarug2023-ops.github.io/harshithroshan.github.io/research/zebrafish-quantity-discrimination/)
-- [Website](https://harshithroshankrishnakumarug2023-ops.github.io/harshithroshan.github.io/)
+- [Project page](https://harshithroshan.github.io/research/zebrafish-quantity-discrimination/)
+- [Website](https://harshithroshan.github.io/)
